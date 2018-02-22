@@ -32,7 +32,15 @@ curl http://localhost:8080/welcome?name=miguel -v
 
 ``X-B3-TraceId:`` Provides the traceId to help debugging
 
-https://github.com/spring-cloud/spring-cloud-sleuth
-https://cloud.spring.io/spring-cloud-sleuth/
+####Hot to Run
 
-https://medium.com/oracledevs/distributed-tracing-for-microservices-on-oracle-cloud-with-spring-cloud-sleuth-and-zipkin-b67158ebb34a
+Install:
+```
+mvn clean install
+```
+
+Run:
+```
+mvn spring-boot:run
+```
+
