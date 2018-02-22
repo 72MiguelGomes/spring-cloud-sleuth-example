@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-public class TraceFilterConfig {
+public class SpringCloudSleuthConfig {
 
     @Bean
     public TraceFilter traceFilter(BeanFactory beanFactory) {
