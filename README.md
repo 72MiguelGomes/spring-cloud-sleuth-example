@@ -1,8 +1,8 @@
-###SpringCloudSleuth Example
+### SpringCloudSleuth Example
 
 This project is an example of SpringCloudSleuth (https://github.com/spring-cloud/spring-cloud-sleuth).
 
-####Example
+#### Example
 
 Log:
 ````
@@ -36,7 +36,7 @@ curl http://localhost:8080/welcome?name=miguel -v
 
 ``X-B3-TraceId:`` Provides the traceId to help debugging
 
-####Hot to Run
+#### Hot to Run
 
 Install:
 ```
