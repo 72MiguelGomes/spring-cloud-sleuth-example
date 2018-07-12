@@ -36,7 +36,7 @@ curl http://localhost:8080/welcome?name=miguel -v
 
 ``X-B3-TraceId:`` Provides the traceId to help debugging
 
-#### Hot to Run
+#### How to Run
 
 Install:
 ```
